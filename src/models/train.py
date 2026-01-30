@@ -23,9 +23,7 @@ def train_ann(X, y):
     raise NotImplementedError
 
 def export_probabilities(model, X, output_path: str):
-    """Run model inference and write probabilities to a CSV file."""
     raise NotImplementedError
 
 if __name__ == "__main__":
-    # TODO: wire the above functions together into the full training pipeline.
     pass
