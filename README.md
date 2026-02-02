@@ -1,4 +1,4 @@
-# 🛡️ End-to-End Credit Card Fraud Detection System  
+#  End-to-End Credit Card Fraud Detection System  
 ### Neural Networks & Anomaly Detection
 
 ## Overview
@@ -108,7 +108,7 @@ This deployment validates the model in a **realistic inference environment**, be
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/credit-card-fraud-detection-ml.git
+git clone https://github.com/RishCapitalent18/credit-card-fraud-detection-ml.git
 cd credit-card-fraud-detection-ml
 
 # Install dependencies
